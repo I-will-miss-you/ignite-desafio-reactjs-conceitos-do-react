@@ -167,10 +167,6 @@ Para que esse teste passe, você deve permitir que ao clicar no botão com ícon
 
 Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado da task, ela seja marcada como concluída ou não concluída de acordo com seu estado atual, alterando seu valor de `isComplete` de `false` para `true` ou ao contrário, de `true` para `false`.
 
-## Como deve ficar a aplicação ao final?
-
-Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
-
 ## Resultado final da aplicação
 
 <div align="center" style="margin-bottom: 4rem">
