@@ -24,7 +24,7 @@ Visite à [Rockseat](https://rocketseat.com.br/) para saber mais sobre o curso.
   <a href="#keyboard-instalação-e-execução-do-projeto">Instalação e Execução do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#template-da-aplicação">Template da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instruções">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#específicação-dos-testes-instruções">Específicação dos testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#especificação-dos-testes">Específicação dos testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -87,9 +87,20 @@ yarn test
 
 Deve aparecer uma mensagem parecida com esta:
 
-```
+```bash
 
-Colocar prints
+ PASS  src/__tests__/components/TaskList.spec.tsx
+  App Page
+    ✓ should be able to add a task (90 ms)
+    ✓ should not be able to add a task with a empty title (18 ms)
+    ✓ should be able to remove a task (39 ms)
+    ✓ should be able to check a task (31 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        2.219 s
+Ran all test suites.
 
 ```
 
@@ -160,6 +171,11 @@ Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado
 
 Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
 
+## Resultado final da aplicação
+
+<div align="center" style="margin-bottom: 4rem">
+    <img width="900px" alt="Ignite" src="assets/challenge2.gif" />
+</div>
 
 ## :memo: Licença
 
