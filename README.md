@@ -170,7 +170,7 @@ Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado
 ## Resultado final da aplicação
 
 <div align="center" style="margin-bottom: 4rem">
-    <img width="900px" alt="Ignite" src="assets/challenge2.gif" />
+    <img width="95%" alt="Ignite" src="assets/challenge2.gif" />
 </div>
 
 ## :memo: Licença
